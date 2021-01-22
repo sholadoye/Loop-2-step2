@@ -9,3 +9,11 @@ p{
   font-size: 10px;
   color: grey;
 }
+
+.bottom{
+  display: flex; 
+  justify-content: space-between; 
+  width: 8rem; 
+  margin-left: 19rem;
+}
+
